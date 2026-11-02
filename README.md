@@ -69,3 +69,7 @@ La implementación de Integración y Entrega Continua (CI/CD) mediante GitHub Ac
 - Entregas más rápidas y organizadas: facilita la publicación de nuevas versiones en los entornos de prueba (Staging) y producción.
 
 En conclusión, CI/CD permite mantener un proceso de desarrollo más controlado y eficiente, reduciendo errores y facilitando la incorporación de nuevas funcionalidades a PilarBus.
+
+## Conclusión
+
+La utilización conjunta de Pull Requests y CI/CD permitirá mantener un proceso de desarrollo más organizado, seguro y eficiente. De esta manera, PilarBus podrá incorporar nuevas funcionalidades y correcciones con mayor confianza, asegurando que cada versión que llegue a producción haya pasado previamente por controles de calidad.
