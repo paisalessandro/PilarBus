@@ -36,3 +36,20 @@ Posteriormente, se realizará el despliegue de la aplicación en un entorno de p
 Objetivo del proceso
 
 La implementación de CI/CD permitirá reducir errores, automatizar tareas repetitivas, mejorar la calidad del código y facilitar la publicación de nuevas versiones de la aplicación de manera más segura y organizada.
+
+(FLUJO DE TRABAJO ) 
+
+
+
+Beneficios de implementar CI/CD
+
+La implementación de Integración y Entrega Continua (CI/CD) mediante GitHub Actions ofrece diferentes beneficios para el desarrollo de PilarBus:
+
+- Detección temprana de errores: permite identificar problemas en el código mediante pruebas automáticas antes de integrar los cambios.
+- Automatización del proceso: reduce las tareas manuales al ejecutar automáticamente las etapas de Build y Test cada vez que se actualiza un Pull Request.
+- Mejora de la calidad del software: ayuda a comprobar que las nuevas funcionalidades no afecten el funcionamiento de las existentes.
+- Trabajo colaborativo: facilita la integración de los cambios realizados por los distintos integrantes del equipo.
+- Mayor seguridad en las actualizaciones: permite verificar los cambios antes de incorporarlos a la rama principal y realizar su despliegue.
+- Entregas más rápidas y organizadas: facilita la publicación de nuevas versiones en los entornos de prueba (Staging) y producción.
+
+En conclusión, CI/CD permite mantener un proceso de desarrollo más controlado y eficiente, reduciendo errores y facilitando la incorporación de nuevas funcionalidades a PilarBus.
