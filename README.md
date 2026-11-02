@@ -37,7 +37,7 @@ Objetivo del proceso
 
 La implementación de CI/CD permitirá reducir errores, automatizar tareas repetitivas, mejorar la calidad del código y facilitar la publicación de nuevas versiones de la aplicación de manera más segura y organizada.
 
-4. Flujo de trabajo
+## 4. Flujo de trabajo
 
 El proceso de desarrollo y publicación de PilarBus se organizará mediante un flujo de trabajo basado en CI/CD, que permitirá controlar los cambios, realizar pruebas y publicar nuevas versiones de manera ordenada y segura.
 
