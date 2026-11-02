@@ -41,7 +41,7 @@ La implementación de CI/CD permitirá reducir errores, automatizar tareas repet
 
 
 
-Beneficios de implementar CI/CD
+## Beneficios de implementar CI/CD
 
 La implementación de Integración y Entrega Continua (CI/CD) mediante GitHub Actions ofrece diferentes beneficios para el desarrollo de PilarBus:
 
