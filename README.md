@@ -37,7 +37,23 @@ Objetivo del proceso
 
 La implementación de CI/CD permitirá reducir errores, automatizar tareas repetitivas, mejorar la calidad del código y facilitar la publicación de nuevas versiones de la aplicación de manera más segura y organizada.
 
-(FLUJO DE TRABAJO ) 
+4. Flujo de trabajo
+
+El proceso de desarrollo y publicación de PilarBus se organizará mediante un flujo de trabajo basado en CI/CD, que permitirá controlar los cambios, realizar pruebas y publicar nuevas versiones de manera ordenada y segura.
+
+1. Creación de una rama: el desarrollador crea una rama independiente para trabajar en una nueva funcionalidad sin modificar directamente el código principal.
+
+2. Desarrollo y modificaciones: se realizan los cambios necesarios en el código y se guardan mediante confirmaciones (commits).
+
+3. Creación de un Pull Request: una vez finalizado el trabajo, se solicita la revisión de los cambios antes de incorporarlos al proyecto.
+
+4. Integración continua (CI): GitHub Actions ejecuta automáticamente los procesos de Build y Test para comprobar que el código funcione correctamente y no presente errores.
+
+5. Revisión y validación: el equipo analiza las modificaciones y verifica que todas las pruebas y controles se hayan completado satisfactoriamente.
+
+6. Integración del código: después de obtener la aprobación, los cambios se incorporan a la rama principal del proyecto.
+
+7. Despliegue (CD): se publica la nueva versión primero en el entorno de Staging, donde se realizan las últimas verificaciones. Una vez comprobado su funcionamiento, se despliega en producción para que los usuarios puedan utilizarla.
 
 
 
